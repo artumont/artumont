@@ -58,4 +58,4 @@
 </p>
 
 ---
-<h4 align="center">Also known as @LUXTACO</h3>
+<h4 align="center">Contact me for any projects you need done. Im always available! 🙌</h3>
