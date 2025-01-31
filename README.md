@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/197291181?v=4"/>
+  <img style="width: 30%; height: auto;" src="https://avatars.githubusercontent.com/u/197291181?v=4"/>
 </p>
+
+---
 
 I'm a 17-year-old full stack developer with a passion for back-end development and computer vision projects.
 
