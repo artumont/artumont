@@ -8,10 +8,6 @@
   I'm a 17-year-old full stack developer with a passion for back-end development and computer vision projects.
 </p>
 
-
----
-
-
 ### 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -60,3 +56,6 @@
 <p align="center">
   <img style="width: 50%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=artumont&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br>
 </p>
+
+---
+<h4 align="center">Also known as @LUXTACO</h3>
