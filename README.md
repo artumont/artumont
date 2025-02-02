@@ -45,7 +45,7 @@
 </p>
 
 
-<h3 align="center">📊 GitHub Stats:</h3>
+<h3 align="start">📊 GitHub Stats:</h3>
 
 <p align="center">
   <img style="width: 50%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=artumont&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br>
