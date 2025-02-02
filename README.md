@@ -8,7 +8,8 @@
   I'm a 17-year-old full stack developer with a passion for back-end development and computer vision projects.
 </p>
 
-### 💻 Tech Stack:
+<h3 align="center">💻 Tech Stack:</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -45,7 +46,7 @@
 </p>
 
 
-<h3 align="start">📊 GitHub Stats:</h3>
+<h3 align="center">📊 GitHub Stats:</h3>
 
 <p align="center">
   <img style="width: 50%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=artumont&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br>
