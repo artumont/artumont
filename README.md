@@ -5,7 +5,7 @@
 <h2 align="center">Hey there 👋, I'm Artu</h2>
 
 <p align="center">
-  I'm a full stack developer with a passion for back-end development and computer vision projects.
+  I'm a full stack developer with a passion for backend development, linux enviroments and computer vision projects.
 </p>
 
 <h3 align="center">💻 Tech Stack:</h3>
