@@ -56,4 +56,4 @@
 
 ---
 <h4 align="center">Contact me for any projects you need done. Im always available! 🙌</h4>
-<h4 align="center">🌐 https://artu.pages.dev 🌐</h4>
+<h4 align="center">🌐 https://portafolio.artumont.online 🌐</h4>
