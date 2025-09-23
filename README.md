@@ -1,22 +1,13 @@
-<p align="center">
-  <img style="width: 30%; height: auto;" src="https://avatars.githubusercontent.com/u/197291181?v=4"/><br>
-</p>
+## 💻 Cool Projects:
 
-<h2 align="center">Hey there 👋, I'm Artu</h2>
-
-<p align="center">
-  I'm a full stack developer with a passion for backend development, Linux environments and computer vision projects.
-</p>
-
-<h3 align="center">💻 Current Projects:</h3>
-
+- [GitHotswap](https://github.com/artumont/GitHotswap) - CLI tool to switch between Git users
 - [DotSlashStream](https://github.com/DotSlashWare/stream) - Open-source media streaming service
+- [EcommerceDocker](https://github.com/artumont/EcommerceDocker) - Simple mock ecommerce api with load balancing
+- [ConcurrentChatSystem](https://github.com/artumont/ConcurrentChatSystem) - Barebones recreation of the chat system used by Discord
 
-<h3 align="center">📊 GitHub Stats:</h3>
+## 📊 GitHub Stats:
 
-<p align="center">
-  <img style="width: 50%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=artumont&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br>
-</p>
+<img style="width: 50%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=artumont&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br>
 
 ---
 <h4 align="center">Contact me for any projects you need done. Im always available! 🙌</h4>
