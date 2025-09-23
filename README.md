@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width: 30%; height: auto;" src="images/banner.jpeg"/><br>
+  <img style="width: 100%; height: auto;" src="images/banner.jpeg"/><br>
 </p>
 
 ## 💻 Cool Projects:
