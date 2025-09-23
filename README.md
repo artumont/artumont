@@ -1,3 +1,7 @@
+<p align="center">
+  <img style="width: 30%; height: auto;" src="images/banner.jpeg"/><br>
+</p>
+
 ## 💻 Cool Projects:
 
 - [GitHotswap](https://github.com/artumont/GitHotswap) - CLI tool to switch between Git users
