@@ -5,7 +5,6 @@
 ## My Projects:
 
 - [GitHotswap](https://github.com/artumont/GitHotswap) - CLI tool to switch between Git users
-- [DotSlashStream](https://github.com/DotSlashWare/stream) - Open-source media streaming service
 - [EcommerceDocker](https://github.com/artumont/EcommerceDocker) - Simple mock ecommerce api with load balancing
 - [ConcurrentChatSystem](https://github.com/artumont/ConcurrentChatSystem) - Barebones recreation of the chat system used by Discord
 
