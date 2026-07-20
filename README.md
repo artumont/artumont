@@ -23,6 +23,8 @@ Previously: Designed and built the core ERP system with FastAPI, Docker/Nginx or
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&color=333333" alt="Bash" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&color=333333" alt="Lua" />
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white&color=333333" alt="Elixir" />
+  <img src="https://img.shields.io/badge/C-A9B9C4?style=for-the-badge&logo=c&logoColor=white&color=333333" alt="C" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&color=333333" alt="Rust" />
 </p>
 
 <p align="center">
@@ -35,13 +37,6 @@ Previously: Designed and built the core ERP system with FastAPI, Docker/Nginx or
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&color=333333" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=333333" alt="SQL Server" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&color=333333" alt="GitHub Actions" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&color=333333" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=333333" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&color=333333" alt="Rust" />
-  <img src="https://img.shields.io/badge/C-A9B9C4?style=for-the-badge&logo=c&logoColor=white&color=333333" alt="C" />
 </p>
 
 ---
