@@ -2,7 +2,9 @@
   <img style="width: 100%; height: auto;" src="images/banner.jpg"/><br>
 </p>
 
-## What I Do
+--- 
+
+### What I Do
 
 Backend & DevOps Engineer building **scalable, reliable systems**. I design REST APIs, orchestrate deployments with **Docker & Kubernetes**, and set up **CI/CD pipelines** that actually work.
 
