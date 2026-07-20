@@ -5,7 +5,7 @@
 ## My Projects:
 
 - [GitHotswap](https://github.com/artumont/GitHotswap) - CLI tool to switch between Git users
-- [EcommerceDocker](https://github.com/artumont/EcommerceDocker) - Simple mock ecommerce api with load balancing
+- [agent-smith.nvim](https://github.com/artumont/agent-smith.nvim) - Neovim AI agent built for control and power.
 - [ConcurrentChatSystem](https://github.com/artumont/ConcurrentChatSystem) - Barebones recreation of the chat system used by Discord
 
 ##
