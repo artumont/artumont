@@ -23,7 +23,8 @@ Previously: Designed and built the core ERP system with FastAPI, Docker/Nginx or
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&color=333333" alt="Bash" />
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white&color=333333" alt="Elixir" />
   <img src="https://img.shields.io/badge/C-A9B9C4?style=for-the-badge&logo=c&logoColor=white&color=333333" alt="C" />
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&color=333333" alt="Rust" />
+  <img src="https://img.shields.io/badge/C++-A9B9C4?style=for-the-badge&logo=c&logoColor=white&color=333333" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&color=333333" alt="Rust" />
 </p>
 
 <p align="center">
